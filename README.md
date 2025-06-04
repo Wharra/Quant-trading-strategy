@@ -1,1 +1,0 @@
-# Quant-trading-strategy
